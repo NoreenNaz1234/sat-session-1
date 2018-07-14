@@ -1,0 +1,84 @@
+header{
+	font-family: 'Merienda', cursive;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+}
+h4{
+	font-family: 'Merienda', cursive;
+	padding: 25px;
+	font-size: 20px;
+	text-align: center;
+	/*margin: 10px;*/
+	font-weight: 1em;
+	background-color: #ecf0f1;
+	margin-bottom: 0px;
+
+
+}
+.cont{
+	display: flex;
+	justify-content: center;
+	background-color: #ecf0f1;
+	font-weight: 1em;
+
+
+
+}
+.img-container{
+   margin: 80px;
+	box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.75);
+
+
+
+}
+.right{
+	/*padding: 16px;
+	margin: 5px;*/
+	font-family: 'Merienda', cursive;
+
+}
+#fix {
+	background-color: #f1c40f;
+	color: black;
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+	margin-top: 10px;
+	font-family: 'Merienda', cursive;
+	font-weight: 1em;
+
+}
+
+
+
+
+}
+
+.bg-success{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.inner > div {
+	padding: 10px;
+	display: flex;
+    align-items: center;
+    justify-content: stretch;
+    
+}
+.inner>div>label {
+    width: 100px;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
